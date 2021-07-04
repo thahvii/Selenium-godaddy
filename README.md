@@ -8,7 +8,7 @@
 * .All of math methods located in the src\ folder to support for the math calculation in your project
 * (TBA...)
 
-#### Connect me via 
+#### Contact me via 
 [My Facebook](https://www.facebook.com/v.vyvie24)  
 [My email](mailto: thanhvyh1@gmail.com)
 
